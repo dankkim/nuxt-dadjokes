@@ -1,0 +1,30 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/kimyoungae/Documents/study/nuxt-dadjokes/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_61ee7223"
+  },
+  {
+    "name": "jokes",
+    "path": "/jokes",
+    "component": "/Users/kimyoungae/Documents/study/nuxt-dadjokes/pages/jokes/index.vue",
+    "chunkName": "pages/jokes/index",
+    "_name": "_6406690d"
+  },
+  {
+    "name": "jokes-id",
+    "path": "/jokes/:id",
+    "component": "/Users/kimyoungae/Documents/study/nuxt-dadjokes/pages/jokes/_id/index.vue",
+    "chunkName": "pages/jokes/_id/index",
+    "_name": "_303a3578"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/kimyoungae/Documents/study/nuxt-dadjokes/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_fcb36630"
+  }
+]
