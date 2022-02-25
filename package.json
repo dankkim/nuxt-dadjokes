@@ -9,6 +9,7 @@
     "generate": "nuxt generate",
     "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
+  "homepage": "https://dankkim.github.io/nuxt-dadjokes",
   "dependencies": {
     "axios": "^0.21.1",
     "core-js": "^3.8.3",
